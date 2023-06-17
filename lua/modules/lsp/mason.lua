@@ -7,7 +7,9 @@ local servers = {
 	"clangd",
 	"cssls",
 	"rust_analyzer",
+	"yamlls",
 	"html",
+	"bashls",
 }
 
 local settings = {
